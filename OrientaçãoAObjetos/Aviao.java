@@ -1,0 +1,5 @@
+package OrientaçãoAObjetos;
+
+class Aviao {
+
+}
